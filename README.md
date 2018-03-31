@@ -3,7 +3,7 @@
 
 ### Table of Contents:
 
-- [Part 1](Statistics Reference Part 1.ipynb):
+- [Part 1](Statistics Reference Part 1.ipynb)
   - Types of Skew
   - Variance
   - Standard Deviation
