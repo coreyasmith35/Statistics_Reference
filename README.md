@@ -3,7 +3,7 @@
 
 ### Table of Contents:
 
-- [Part 1](https://github.com/coreyasmith35/Statistics_Reference/blob/master/Statistics%20Reference%20Part%201.ipynb)
+- [Part 1 - Descriptive Statistics]()
   - Types of Skew
   - Variance
   - Standard Deviation
@@ -12,3 +12,6 @@
   - Covariance
   - Correlation Coefficient
   - Numpy/scipy Functions
+
+
+- [Part 2 - Inferential Statistics]()
